@@ -106,7 +106,7 @@ SPECIALIZATION: Full Stack Development | CLI Tools | AI/LLM Systems
 |---------|-------------|------|
 | **[Minror](https://minror.app)** | Multi-tenant SaaS ecommerce platform | Next.js, Node.js, Docker |
 | **Terminal Multiplexer** | t-mux style terminal with pane splitting | Rust, ratatui |
-| **Tuidit** | Cross-platform terminal code editor | Rust, Terminal UI |
+| **[Tuidit](https://tuidit.shreyrajsingh.dev/)** | Vim-style terminal code editor | Go, Terminal UI |
 | **Codebase RAG** | Natural language code search | Python, LangChain, FAISS |
 | **VCS** | Offline version control system | Go, CLI |
 | **Sally** | Smart product scanner with 97% OCR | FastAPI, Gemini Vision |
